@@ -1,0 +1,1 @@
+D:\Unity\2020.3.41f1\Editor\Unity.exe -quit -batchmode -projectPath ../GenuineCustomerProject/ -executeMethod GCPAutomateBuild.Build
